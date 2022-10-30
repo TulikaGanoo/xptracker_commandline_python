@@ -12,10 +12,11 @@ Python Libraries used:
 Data is stored in a Microsoft Excel file
 
 Installation instructions:
+o Get python (link: )
+o Get pip installer on your Windows Command Prompt
 
 
-
-Operating instructions:
+Operating instructions: 
 
 
 A file manifest (a list of files in the directory or archive):
