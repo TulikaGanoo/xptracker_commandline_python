@@ -41,6 +41,7 @@ A changelog:
 
 To do:
 * print error in accessing excel file in case of error
-* preventing invalid entries/ setting up tests
+* preventing invalid entries/ setting up test
+* making affirmative answer check case insensitive (yes == YES == Yes)
 
 
